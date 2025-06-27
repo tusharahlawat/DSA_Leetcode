@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0047-permutations-ii) |
 ## Hash Table
@@ -89,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
