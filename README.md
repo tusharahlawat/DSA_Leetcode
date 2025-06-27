@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0044-wildcard-matching](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0044-wildcard-matching) |
 | [0736-parse-lisp-expression](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0736-parse-lisp-expression) |
 ## Breadth-First Search
@@ -83,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0044-wildcard-matching) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
