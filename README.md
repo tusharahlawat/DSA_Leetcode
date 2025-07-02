@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0048-rotate-image) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0344-reverse-string) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0042-trapping-rain-water) |
 | [0736-parse-lisp-expression](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0736-parse-lisp-expression) |
 ## Recursion
 |  |
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0044-wildcard-matching) |
 | [0337-house-robber-iii](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0337-house-robber-iii) |
 ## Greedy
@@ -133,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0048-rotate-image) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
