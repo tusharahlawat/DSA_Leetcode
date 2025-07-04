@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0048-rotate-image) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0287-find-the-duplicate-number](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0042-trapping-rain-water) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0125-valid-palindrome](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0151-reverse-words-in-a-string) |
