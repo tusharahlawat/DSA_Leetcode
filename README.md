@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0048-rotate-image) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0268-missing-number](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0268-missing-number) |
 | [0736-parse-lisp-expression](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0736-parse-lisp-expression) |
 ## Two Pointers
 |  |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0047-permutations-ii) |
+| [0268-missing-number](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0048-rotate-image) |
+| [0268-missing-number](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0412-fizz-buzz) |
 ## Dynamic Programming
 |  |
@@ -141,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Sliding Window
 |  |
@@ -161,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
