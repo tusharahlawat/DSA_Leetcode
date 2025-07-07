@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0042-trapping-rain-water) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0044-wildcard-matching) |
 ## Linked List
 |  |
