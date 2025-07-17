@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0838-design-linked-list](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0838-design-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -196,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Design
+|  |
+| ------- |
+| [0838-design-linked-list](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0838-design-linked-list) |
 <!---LeetCode Topics End-->
