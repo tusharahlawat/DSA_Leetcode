@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0877-shortest-path-visiting-all-nodes](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
 ## Math
 |  |
 | ------- |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0044-wildcard-matching) |
 | [0337-house-robber-iii](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0337-house-robber-iii) |
+| [0877-shortest-path-visiting-all-nodes](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
 ## Greedy
 |  |
 | ------- |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0371-sum-of-two-integers) |
+| [0877-shortest-path-visiting-all-nodes](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -207,4 +210,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0838-design-linked-list](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0838-design-linked-list) |
+## Graph
+|  |
+| ------- |
+| [0877-shortest-path-visiting-all-nodes](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
+## Bitmask
+|  |
+| ------- |
+| [0877-shortest-path-visiting-all-nodes](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
 <!---LeetCode Topics End-->
