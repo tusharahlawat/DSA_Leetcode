@@ -10,7 +10,7 @@ public:
                 for(int k = i ; k<j;k++){
                     if(s[k]==s[j]){
                         res = false;
-                        
+                        break;
                     }
                 }
                 if(res==true){
