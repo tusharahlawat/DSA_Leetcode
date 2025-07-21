@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0048-rotate-image) |
+| [0063-unique-paths-ii](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0063-unique-paths-ii) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0044-wildcard-matching) |
+| [0063-unique-paths-ii](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0072-edit-distance) |
 | [0337-house-robber-iii](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0337-house-robber-iii) |
 | [0494-target-sum](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0494-target-sum) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0048-rotate-image) |
+| [0063-unique-paths-ii](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0063-unique-paths-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
