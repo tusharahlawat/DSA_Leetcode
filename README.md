@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0060-permutation-sequence) |
 | [0089-gray-code](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0089-gray-code) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0029-divide-two-integers) |
 | [0089-gray-code](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0089-gray-code) |
 | [0222-count-complete-tree-nodes](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0268-missing-number) |
