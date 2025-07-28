@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0089-gray-code) |
+| [0131-palindrome-partitioning](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0494-target-sum) |
 ## Sorting
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0257-binary-tree-paths) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0072-edit-distance) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0337-house-robber-iii](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0337-house-robber-iii) |
 | [0494-target-sum](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0494-target-sum) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
