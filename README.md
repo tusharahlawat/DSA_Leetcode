@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0049-group-anagrams](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0268-missing-number) |
 | [0736-parse-lisp-expression](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0736-parse-lisp-expression) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0268-missing-number) |
 ## String
@@ -79,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0044-wildcard-matching](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0072-edit-distance) |
