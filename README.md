@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0044-wildcard-matching](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0044-wildcard-matching) |
+| [0050-powx-n](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0060-permutation-sequence) |
 | [0203-remove-linked-list-elements](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0206-reverse-linked-list) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0060-permutation-sequence) |
 | [0089-gray-code](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0089-gray-code) |
 | [0268-missing-number](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0268-missing-number) |
