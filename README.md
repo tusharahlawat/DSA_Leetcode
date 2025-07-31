@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0412-fizz-buzz) |
+| [0649-dota2-senate](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0649-dota2-senate) |
 | [0736-parse-lisp-expression](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0736-parse-lisp-expression) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Tree
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0044-wildcard-matching) |
+| [0649-dota2-senate](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0649-dota2-senate) |
 ## Linked List
 |  |
 | ------- |
@@ -322,4 +324,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0062-unique-paths) |
+## Queue
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0649-dota2-senate) |
 <!---LeetCode Topics End-->
