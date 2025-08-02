@@ -1,27 +1,17 @@
 class Solution {
 public:
-    string reverseString(string s) {
-        int left=0;
-        int right=s.size()-1;
-
-        while(left<right){
-            swap(s[left],s[right]);
-            left++;
-            right--;
-        }
-        return s;
-
-    }
     bool isPalindrome(string s) {
-        string str;
-        for(int i = 0;i<s.size();i++){
-            if (isalnum(s[i])){
-                str+=tolower(s[i]);
-
+        string ss;
+        string z;
+        for(int i = 0;i<s.length();i++){
+            if('a'<=s[i]&&s[i]<='z'||'A'<=s[i]&&s[i]<='Z'||'0'<=s[i]&&s[i]<='9'){
+                ss+=tolower(s[i]);
             }
-            
+
         }
-        return(str==reverseString(str));
+        z=ss;
+        reverse(ss.begin(),ss.end());
+        return ss==z;
+        
     }
-    
 };
