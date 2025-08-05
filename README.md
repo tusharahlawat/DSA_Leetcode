@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0494-target-sum) |
+| [0813-all-paths-from-source-to-target](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 ## Sorting
 |  |
 | ------- |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0744-network-delay-time) |
+| [0813-all-paths-from-source-to-target](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0871-keys-and-rooms) |
 | [0881-loud-and-rich](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0881-loud-and-rich) |
 | [0964-minimize-malware-spread-ii](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0964-minimize-malware-spread-ii) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0547-number-of-provinces) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0744-network-delay-time](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0744-network-delay-time) |
+| [0813-all-paths-from-source-to-target](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0871-keys-and-rooms) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0964-minimize-malware-spread-ii](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0964-minimize-malware-spread-ii) |
@@ -326,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0744-network-delay-time) |
+| [0813-all-paths-from-source-to-target](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0871-keys-and-rooms) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0881-loud-and-rich](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0881-loud-and-rich) |
