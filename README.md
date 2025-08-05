@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0494-target-sum](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0494-target-sum) |
+| [0675-cut-off-trees-for-golf-event](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0881-loud-and-rich](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0881-loud-and-rich) |
 | [0964-minimize-malware-spread-ii](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0964-minimize-malware-spread-ii) |
 | [1039-find-the-town-judge](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/1039-find-the-town-judge) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0547-number-of-provinces) |
+| [0675-cut-off-trees-for-golf-event](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0744-network-delay-time](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0744-network-delay-time) |
 | [0871-keys-and-rooms](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0871-keys-and-rooms) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0063-unique-paths-ii) |
+| [0675-cut-off-trees-for-golf-event](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0675-cut-off-trees-for-golf-event) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -336,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0675-cut-off-trees-for-golf-event](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0744-network-delay-time](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0744-network-delay-time) |
 | [0918-reachable-nodes-in-subdivided-graph](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0918-reachable-nodes-in-subdivided-graph) |
 ## Shortest Path
