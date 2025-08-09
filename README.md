@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0337-house-robber-iii) |
 | [0404-sum-of-left-leaves](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0933-increasing-order-search-tree](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0933-increasing-order-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0813-all-paths-from-source-to-target](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0871-keys-and-rooms) |
 | [0881-loud-and-rich](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0881-loud-and-rich) |
+| [0933-increasing-order-search-tree](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0933-increasing-order-search-tree) |
 | [0964-minimize-malware-spread-ii](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0964-minimize-malware-spread-ii) |
 ## Binary Tree
 |  |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0337-house-robber-iii) |
 | [0404-sum-of-left-leaves](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0933-increasing-order-search-tree](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0933-increasing-order-search-tree) |
 ## Stack
 |  |
 | ------- |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0173-binary-search-tree-iterator](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0736-parse-lisp-expression](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0736-parse-lisp-expression) |
+| [0933-increasing-order-search-tree](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0933-increasing-order-search-tree) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Recursion
 |  |
@@ -323,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0933-increasing-order-search-tree](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0933-increasing-order-search-tree) |
 ## String Matching
 |  |
 | ------- |
