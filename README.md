@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-loud-and-rich](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0881-loud-and-rich) |
 | [0933-increasing-order-search-tree](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0933-increasing-order-search-tree) |
 | [0964-minimize-malware-spread-ii](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0964-minimize-malware-spread-ii) |
+| [1300-critical-connections-in-a-network](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/1300-critical-connections-in-a-network) |
 ## Binary Tree
 |  |
 | ------- |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-reachable-nodes-in-subdivided-graph](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0918-reachable-nodes-in-subdivided-graph) |
 | [0964-minimize-malware-spread-ii](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0964-minimize-malware-spread-ii) |
 | [1039-find-the-town-judge](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/1039-find-the-town-judge) |
+| [1300-critical-connections-in-a-network](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/1300-critical-connections-in-a-network) |
 ## Bitmask
 |  |
 | ------- |
@@ -396,4 +398,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-loud-and-rich](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0881-loud-and-rich) |
+## Biconnected Component
+|  |
+| ------- |
+| [1300-critical-connections-in-a-network](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/1300-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
