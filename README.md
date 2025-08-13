@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0744-network-delay-time) |
+| [0754-cracking-the-safe](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0754-cracking-the-safe) |
 | [0813-all-paths-from-source-to-target](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0871-keys-and-rooms) |
 | [0881-loud-and-rich](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0881-loud-and-rich) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0744-network-delay-time) |
+| [0754-cracking-the-safe](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0754-cracking-the-safe) |
 | [0813-all-paths-from-source-to-target](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0871-keys-and-rooms) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
@@ -408,4 +410,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1300-critical-connections-in-a-network](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/1300-critical-connections-in-a-network) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0754-cracking-the-safe](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0754-cracking-the-safe) |
 <!---LeetCode Topics End-->
