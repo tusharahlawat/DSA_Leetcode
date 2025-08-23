@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0169-majority-element](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0494-target-sum](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0494-target-sum) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0268-missing-number) |
 | [0736-parse-lisp-expression](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0736-parse-lisp-expression) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0268-missing-number) |
 ## String
 |  |
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0169-majority-element) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -420,4 +424,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0754-cracking-the-safe](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0754-cracking-the-safe) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
