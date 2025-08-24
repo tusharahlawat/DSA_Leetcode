@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0089-gray-code) |
 | [0168-excel-sheet-column-title](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0268-missing-number](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0268-missing-number) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0063-unique-paths-ii) |
+| [0070-climbing-stairs](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0072-edit-distance) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -433,4 +435,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0169-majority-element) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
