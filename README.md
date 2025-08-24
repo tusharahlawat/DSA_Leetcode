@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0063-unique-paths-ii) |
+| [0066-plus-one](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0088-merge-sorted-array) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0089-gray-code) |
 | [0168-excel-sheet-column-title](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0168-excel-sheet-column-title) |
