@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0412-fizz-buzz) |
 | [0649-dota2-senate](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0649-dota2-senate) |
 | [0736-parse-lisp-expression](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0736-parse-lisp-expression) |
