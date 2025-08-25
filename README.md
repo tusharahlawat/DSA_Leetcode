@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0268-missing-number) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0344-reverse-string) |
 ## Backtracking
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0089-gray-code) |
 | [0168-excel-sheet-column-title](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0202-happy-number](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0371-sum-of-two-integers) |
