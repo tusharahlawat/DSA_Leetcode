@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0736-parse-lisp-expression](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0736-parse-lisp-expression) |
 | [0964-minimize-malware-spread-ii](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0964-minimize-malware-spread-ii) |
 | [1039-find-the-town-judge](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/1039-find-the-town-judge) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0412-fizz-buzz) |
 | [0649-dota2-senate](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0649-dota2-senate) |
 | [0736-parse-lisp-expression](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0736-parse-lisp-expression) |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0649-dota2-senate](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0649-dota2-senate) |
 ## Enumeration
 |  |
@@ -443,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Memoization
 |  |
 | ------- |
