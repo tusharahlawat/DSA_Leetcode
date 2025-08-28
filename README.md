@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0494-target-sum](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0494-target-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0621-task-scheduler) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0881-loud-and-rich](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0881-loud-and-rich) |
 | [0964-minimize-malware-spread-ii](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0964-minimize-malware-spread-ii) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0621-task-scheduler) |
 | [0736-parse-lisp-expression](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0736-parse-lisp-expression) |
 | [0964-minimize-malware-spread-ii](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0964-minimize-malware-spread-ii) |
 | [1039-find-the-town-judge](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/1039-find-the-town-judge) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0268-missing-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0621-task-scheduler) |
 ## String
 |  |
 | ------- |
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0055-jump-game) |
+| [0621-task-scheduler](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0621-task-scheduler) |
 | [0649-dota2-senate](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0649-dota2-senate) |
 ## Linked List
 |  |
@@ -405,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0621-task-scheduler) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0744-network-delay-time](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0744-network-delay-time) |
 | [0918-reachable-nodes-in-subdivided-graph](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0918-reachable-nodes-in-subdivided-graph) |
@@ -455,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0621-task-scheduler) |
 ## Memoization
 |  |
 | ------- |
