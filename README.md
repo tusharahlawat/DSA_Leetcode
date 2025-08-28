@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0494-target-sum](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0494-target-sum) |
+| [0594-longest-harmonious-subsequence](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0881-loud-and-rich](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0881-loud-and-rich) |
 | [0964-minimize-malware-spread-ii](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0964-minimize-malware-spread-ii) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0736-parse-lisp-expression](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0736-parse-lisp-expression) |
 | [0964-minimize-malware-spread-ii](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0964-minimize-malware-spread-ii) |
 | [1039-find-the-town-judge](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/1039-find-the-town-judge) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0268-missing-number) |
+| [0594-longest-harmonious-subsequence](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 ## String
 |  |
 | ------- |
@@ -326,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0594-longest-harmonious-subsequence](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 ## Simulation
 |  |
 | ------- |
@@ -447,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 ## Memoization
 |  |
 | ------- |
