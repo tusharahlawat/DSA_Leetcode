@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0268-missing-number) |
+| [0299-bulls-and-cows](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0257-binary-tree-paths) |
+| [0299-bulls-and-cows](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0299-bulls-and-cows) |
 | [0344-reverse-string](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0383-ransom-note) |
@@ -449,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0169-majority-element) |
+| [0299-bulls-and-cows](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0594-longest-harmonious-subsequence) |
