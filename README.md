@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [2481-strictly-palindromic-number](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/2481-strictly-palindromic-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0412-fizz-buzz) |
+| [2481-strictly-palindromic-number](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/2481-strictly-palindromic-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -465,4 +467,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0070-climbing-stairs) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
