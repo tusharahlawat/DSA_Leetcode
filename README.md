@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0412-fizz-buzz) |
 | [2481-strictly-palindromic-number](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/2481-strictly-palindromic-number) |
+| [3199-distribute-candies-among-children-i](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/3199-distribute-candies-among-children-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0062-unique-paths) |
+| [3199-distribute-candies-among-children-i](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/3199-distribute-candies-among-children-i) |
 ## Queue
 |  |
 | ------- |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3199-distribute-candies-among-children-i](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/3199-distribute-candies-among-children-i) |
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 ## Topological Sort
 |  |
