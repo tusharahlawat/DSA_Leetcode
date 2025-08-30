@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-loud-and-rich](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0881-loud-and-rich) |
 | [0964-minimize-malware-spread-ii](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0964-minimize-malware-spread-ii) |
 | [1039-find-the-town-judge](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/1039-find-the-town-judge) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 ## Hash Table
 |  |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0412-fizz-buzz) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2481-strictly-palindromic-number](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [3199-distribute-candies-among-children-i](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/3199-distribute-candies-among-children-i) |
 ## Dynamic Programming
@@ -480,4 +482,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0258-add-digits) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
