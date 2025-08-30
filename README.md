@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0089-gray-code) |
 | [0168-excel-sheet-column-title](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0371-sum-of-two-integers) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0412-fizz-buzz) |
 ## Matrix
 |  |
@@ -474,4 +476,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/2481-strictly-palindromic-number) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/tusharahlawat/DSA_Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
